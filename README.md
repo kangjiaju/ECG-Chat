@@ -26,6 +26,7 @@ To train and evaluate the ECG CoCa model, please use the scripts in `open_clip/`
 To pretraining and fine-tuning the ECG-Chat model, please use the scripts in `llava/`.
 
 The codes for report generation evaluation and RAG are coming soon.
+### GraphRAG module
 
 ## Citation
 If you think that our work is useful to your research, please cite using this BibTeX:
